@@ -1,5 +1,5 @@
 const { default: Link } = require("next/link")
-import navStyles from '../styles/Nav.module.css'
+import navStyles from '../styles/nav.module.css'
 
 
 const Nav = () => {
